@@ -37,7 +37,20 @@ Highlights:
 4.   It will be added to your Plugins List.
 5.   Go to your WordPress admin panel and click “Settings” > “Doppler Form”    
 6.   Introduce the [API Key](http://help.fromdoppler.com/en/api-interfaz-de-programacion-de-aplicaciones/) and press “Connect”
-      
+
+== Screenshots ==
+
+1. Go to your WordPress admin panel and select “Plugins” > “Add new”.
+2. Then, choose Doppler Form and click “Install now”.
+3. When it’s successfully installed, click on “Activate Plugin”. 
+4. Go to your WordPress admin panel and click “Settings” > “Doppler Form”. 
+5. Remember you have to get your  [API Key](http://help.fromdoppler.com/en/api-interfaz-de-programacion-de-aplicaciones/) from Doppler’s control pannel. Just paste it in the textbox, hit on connect and continue.
+6. This window means you are very, very close to get your Widget ready to add it to your Blog or Website. Your API Key was successfully connected! Congratulations!
+7. It’s time to customize your Widget. It’s a very simple task. Just go to “Appearance” in the admin panel and choose Doppler Form from the available Widgets.
+8. Drag the Doppler Form Widget into the Widget Area and choose the place you would like it to be displayed. Remember this is the way your visitors will see it in your Blog or Website!
+9. Last step! Choose a title and add the Doppler Lists you want to feed. Remember you can feed multiple Lists with just one Form! Ready? Click “Save” and go to your Blog or Website in order to see your new Doppler Form.
+10. You’re done! You’ve never thought feeding your Subscribers Lists could be so easy, have you? Doppler is the best tool to do Email Marketing. Add a Form into your Blog or Website, increase your Lists and optimize your results!
+ 
 == Set your Widget ==
 
 
@@ -55,7 +68,7 @@ Please visit the plugin FAQ questions. If you have doubts don’t hesitate to wr
 == Frequently Asked Questions ==
 
 
-=  Can a visitor be added to more than one List? =
+= Can a visitor be added to more than one List? =
 
 
 Yes, there are no limits in the amount of Lists you can feed with one Form.
@@ -67,19 +80,19 @@ Yes, there are no limits in the amount of Lists you can feed with one Form.
 No, there is no limit.
 
 
-= Can I change the API Key I have registered?
+= Can I change the API Key I have registered? =
 
 
 Yes, if you have more than one API Key or, for some reason, you have changed the one you had, you can register a new one.
 
 
-= Do Doppler Forms have a default design?
+= Do Doppler Forms have a default design? =
 
 
 No, Doppler Form’s design fits to the theme you have activated for your site or blog.
 
 
-= Where can I find my Doppler API Key? 
+= Where can I find my Doppler API Key? =
 
 
 You can learn how to find your Doppler API Key [here](http://help.fromdoppler.com/en/api-interfaz-de-programacion-de-aplicaciones/).
