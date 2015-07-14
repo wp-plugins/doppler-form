@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-06-08 11:49-0300\n"
+"PO-Revision-Date: 2015-06-08 11:50-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\test_plugin\\wp-content\\plugins\\doppler-"
+"subscription\\test\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: doppler-subscription.php:81 doppler-subscription.php:250
+msgid "Doppler Formulario"
+msgstr ""
+
+#: doppler-subscription.php:112
+msgid "Ouch! The field is empty."
+msgstr ""
+
+#: doppler-subscription.php:130
+msgid "Ouch! Enter a valid API Key."
+msgstr ""
+
+#: doppler-subscription.php:149
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: doppler-subscription.php:176
+msgid "Connect your Subscription Form with Doppler"
+msgstr ""
+
+#: doppler-subscription.php:177
+msgid ""
+"Send emails directly from your Wordpress Form to your Doppler Lists! All you "
+"need to do is enter your API Key to link them up. Don’t know where to find "
+"it?"
+msgstr ""
+""
+
+#: doppler-subscription.php:178
+msgid "Read this post"
+msgstr ""
+
+#: doppler-subscription.php:180
+msgid "(Remember that this benefit is only available for paid accounts)."
+msgstr ""
+
+#: doppler-subscription.php:187
+msgid "Your account is connected"
+msgstr ""
+
+#: doppler-subscription.php:187
+msgid "Disconnect"
+msgstr ""
+
+#: doppler-subscription.php:193
+msgid "The process was a success! Your API Key is officially connected."
+msgstr ""
+
+#: doppler-subscription.php:197
+msgid "You're almost there! Go to the tab"
+msgstr ""
+
+#: doppler-subscription.php:197
+msgid ""
+"<b>Appearance>Widgets>Doppler Formulario</b> and choose the Lists where your "
+"new Subscribers will be saved"
+msgstr ""
+""
+
+#: doppler-subscription.php:203 doppler-subscription.php:207
+msgid "Enter your API Key."
+msgstr ""
+
+#: doppler-subscription.php:208
+msgid "CONNECT"
+msgstr ""
+
+#: doppler-subscription.php:216
+msgid "Doppler is a product by"
+msgstr ""
+
+#: doppler-subscription.php:249
+msgid "Select the Lists you want to send your Subscribers to."
+msgstr ""
+
+#: doppler-subscription.php:274
+msgid "Email …"
+msgstr ""
+
+#: doppler-subscription.php:306
+msgid "Title"
+msgstr ""
+
+#: doppler-subscription.php:307
+msgid "Enter a descriptive title for your Form."
+msgstr ""
+
+#: doppler-subscription.php:310
+msgid "Subscription Lists"
+msgstr ""
+
+#: doppler-subscription.php:314
+msgid "Select the List that you want to import your Subscribers into."
+msgstr ""

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Doppler Formulario 1.0.0\n"
+"POT-Creation-Date: 2015-06-10 12:19-0300\n"
+"PO-Revision-Date: 2015-06-10 12:46-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\test_plugin\\wp-content\\plugins\\doppler-"
+"form\\test\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: doppler-form.php:81 doppler-form.php:250
+msgid "Doppler Form"
+msgstr "Doppler Form"
+
+#: doppler-form.php:112
+msgid "Ouch! The field is empty."
+msgstr "¡Ouch! El campo está vacio."
+
+#: doppler-form.php:130
+msgid "Ouch! Enter a valid API Key."
+msgstr "¡Ouch! Ingresa una API Key válida."
+
+#: doppler-form.php:149
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta pagina"
+
+#: doppler-form.php:176
+msgid "Connect your Subscription Form with Doppler"
+msgstr "Conecta tu Formulario con Doppler"
+
+#: doppler-form.php:177
+msgid ""
+"Send emails directly from your Wordpress Form to your Doppler Lists! All you "
+"need to do is enter your API Key to link them up. Don’t know where to find "
+"it?"
+msgstr ""
+"¡Envía los emails que ingresan en tu formulario de Wordpress a tus listas de "
+"Doppler! Solo necesitas ingresar tu API Key para conectar tus cuentas. ¿No "
+"sabes dónde encontrarla?"
+
+#: doppler-form.php:178
+msgid "Read this post"
+msgstr "Mira este post"
+
+#: doppler-form.php:180
+msgid "(Remember that this benefit is only available for paid accounts)."
+msgstr "(Recuerda que este beneficio es solo para cuentas pagas)."
+
+#: doppler-form.php:187
+msgid "Your account is connected"
+msgstr "Tu cuenta está conectada"
+
+#: doppler-form.php:187
+msgid "Disconnect"
+msgstr "Desconectar"
+
+#: doppler-form.php:193
+msgid "The process was a success! Your API Key is officially connected."
+msgstr "¡El proceso fue todo un éxito! Tu API Key se ha conectado."
+
+#: doppler-form.php:197
+msgid "You're almost there! Go to the tab"
+msgstr "¡Solo falta un paso! Ve a la pestaña"
+
+#: doppler-form.php:197
+msgid ""
+"<b>Appearance>Widgets>Doppler Form</b> and choose the Lists where your new "
+"Subscribers will be saved"
+msgstr ""
+"<b>Apariencia>Widgets>Doppler Form</b> y elige la Lista en la que se "
+"guardarán tus nuevos Suscriptores."
+
+#: doppler-form.php:205 doppler-form.php:207
+msgid "Enter your API Key."
+msgstr "Ingresa tu API Key."
+
+#: doppler-form.php:208
+msgid "CONNECT"
+msgstr "CONECTAR"
+
+#: doppler-form.php:216
+msgid "Doppler is a product by"
+msgstr "Doppler es un producto de"
+
+#: doppler-form.php:249
+msgid "Select the Lists you want to send your Subscribers to."
+msgstr "Decide a qué Listas enviarás tus nuevos Suscriptores."
+
+#: doppler-form.php:273
+msgid "Thanks for Subscribing"
+msgstr "Gracias por Subscribirte"
+
+#: doppler-form.php:276
+msgid "Email …"
+msgstr "Email …"
+
+#: doppler-form.php:280
+msgid "Send"
+msgstr "Suscríbete"
+
+#: doppler-form.php:311
+msgid "Title"
+msgstr "Titulo"
+
+#: doppler-form.php:312
+msgid "Enter a descriptive title for your Form."
+msgstr "Ingresa el texto que encabezará tu Formulario."
+
+#: doppler-form.php:315
+msgid "Subscription Lists"
+msgstr "Listas de Suscripción"
+
+#: doppler-form.php:318
+msgid "Select the List that you want to import your Subscribers into."
+msgstr "Elige qué listas alimentarás."
